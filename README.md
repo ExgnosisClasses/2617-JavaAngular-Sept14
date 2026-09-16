@@ -6,5 +6,5 @@ This repository will be available until the end of the 2026.
 
 [Lab Repository Link](https://github.com/Innovation-In-Software/bc-sw-engineer-java-angular-participant)
 
-### Change Log
+[Java Tutorial Link Used in class](https://dev.java/learn/) 
 
