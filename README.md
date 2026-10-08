@@ -8,7 +8,7 @@ This repository will be available until the end of the 2026.
 
 [Java Tutorial Link Used in class](https://dev.java/learn/) 
 
-## Groups as of October 5
+## Groups as of October 8
 
 ### Group 1 (Denver/Arizona)
 
@@ -35,12 +35,12 @@ This repository will be available until the end of the 2026.
 
 1. Benjamin
 2. Brandon S.
-3. Jason
+3. Cara
 4. LiLou
 
-### Group 4 (Ohio)
+### Group 5 (Ohio)
 
 1. Brandon A.
-2. Cara
+2. Jason
 3. Keifer
 4. William
