@@ -8,6 +8,7 @@ This repository will be available until the end of the 2026.
 
 [Java Tutorial Link Used in class](https://dev.java/learn/) 
 
+[Kubernets Credentials](https://drive.google.com/drive/folders/18yRUcO8aMfzOigJQP847YCFIU3gdVZOx?usp=sharing)
 ## Groups as of October 8
 
 ### Group 1 (Denver/Arizona)
